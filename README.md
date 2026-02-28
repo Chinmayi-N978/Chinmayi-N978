@@ -7,7 +7,7 @@ Building real-world projects with React, JavaScript & Machine Learning
 ---
 
 ##  Projects
--  Counter App (React) — Live Demo: https://your-vercel-link
+-  Counter App (React) — Live Demo: https://vercel.com/chinmayi-ns-projects/react-counter-app
 -  Simple Web App
 -  Practical Machine Learning
 
