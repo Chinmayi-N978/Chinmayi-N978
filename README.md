@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi , I'm Chinmayi N
 
-<!--
-**Chinmayi-N978/Chinmayi-N978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year Information Science Engineering Student  
+Passionate about Full Stack Development & AI Projects  
+Building real-world projects with React, JavaScript & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+-  Counter App (React) — Live Demo: https://your-vercel-link
+-  Simple Web App
+-  Practical Machine Learning
+
+---
+
+##  Tech Stack
+- React.js
+- JavaScript
+- Python
+- Git & GitHub
+- Machine Learning Basics
+
+---
+
+##  Connect with Me
+- LinkedIn: https://www.linkedin.com/in/chinmayi-n-9296842a4
+- GitHub: https://github.com/Chinmayi-N978
